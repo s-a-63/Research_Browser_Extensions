@@ -31,6 +31,7 @@ To learn how to identify and remove potentially harmful or unnecessary browser e
 ## 📂 Files in this Repository
 ### ▶️  [`Documents/`](./Documents/)
 - Task 7-Identify and Remove Suspicious Browser Extensions: Word document containing analysis of the extensions.
+- my_extensions: A screenshot of my extensions list.
 
 ---
 
@@ -45,3 +46,7 @@ To learn how to identify and remove potentially harmful or unnecessary browser e
 ## ✅ Conclusion:
 Regular review and cleanup of browser extensions can significantly reduce security vulnerabilities and improve browser performance. This task highlighted the importance of managing extensions carefully.
 
+---
+
+## Note:
+Look at the word documents I uploaded in the Documents section to see the list of extensions and their analysis.
