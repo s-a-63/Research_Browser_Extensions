@@ -34,7 +34,7 @@ To learn how to identify and remove potentially harmful or unnecessary browser e
 
 ---
 
-**Prevention Tips:**
+## Prevention Tips:
 - Install only well-reviewed, essential extensions.
 - Regularly review extension permissions and activity.
 - Keep the browser and extensions up-to-date.
