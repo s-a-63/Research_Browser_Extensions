@@ -35,6 +35,20 @@ To learn how to identify and remove potentially harmful or unnecessary browser e
 
 ---
 
+## 🧪 Research on Malicious Extensions
+
+Malicious browser extensions can:
+
+- Steal personal or financial information.
+- Inject unwanted ads or redirect traffic.
+- Secretly mine cryptocurrency (cryptojacking).
+- Hijack browsing sessions or credentials.
+- Spy on user activity across websites.
+- Install additional malware or backdoors.
+
+---
+
+
 ## Prevention Tips:
 - Install only well-reviewed, essential extensions.
 - Regularly review extension permissions and activity.
